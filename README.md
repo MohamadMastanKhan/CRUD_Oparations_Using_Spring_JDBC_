@@ -30,3 +30,13 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application using **Spr
        s_name VARCHAR(100),
        s_marks FLOAT
    );
+
+Clone this repository
+
+git clone 
+cd Spring-JDBC-CRUD
+
+Build and Run
+
+mvn clean install
+mvn exec:java -Dexec.mainClass="CRUD_Oparaions_Using_SPring.SPring_JDBC.App"
