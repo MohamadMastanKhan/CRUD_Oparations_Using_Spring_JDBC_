@@ -33,7 +33,7 @@ This is a simple **CRUD (Create, Read, Update, Delete)** application using **Spr
 
 Clone this repository
 
-git clone 
+git clone https://github.com/MohamadMastanKhan/CRUD_Oparations_Using_Spring_JDBC_/tree/main
 cd Spring-JDBC-CRUD
 
 Build and Run
